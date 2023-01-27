@@ -48,9 +48,9 @@ To get the code..
 
 ## Author
 Project contributed to by:
-[Ivy Wambugha Thoya](https://github.com/IvyW2/)
-[Khalid Zein](https://github.com/khalid-zein)
-[Joseph Musyoki Wambua](https://github.com/Musyoki-Wambua)                       
-[Anthony Tula](https://github.com/tony555t)                       
+- [Ivy Wambugha Thoya](https://github.com/IvyW2/)
+- [Khalid Zein](https://github.com/khalid-zein)
+- [Joseph Musyoki Wambua](https://github.com/Musyoki-Wambua)                       
+- [Anthony Tula](https://github.com/tony555t)                       
 ## Licence
 This project is licensed under the ISC licence.
